@@ -2,7 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Steve is an all-purpose Discord bot originally developed for [Tuataria] and its sideservers (although now usable anywhere). Developed and maintained by Jonathan#0412 and BoedJ#5476.
+Steve is an all-purpose Discord bot originally developed for [Tuataria] and its sideservers (although now usable anywhere). Developed and maintained by your least favorite Jonathans, Jonathan#0412 and BoedJ#5476.
 
 ## Features
 - Moderation commands
